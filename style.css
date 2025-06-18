@@ -106,14 +106,14 @@
   
 .product-catalog {
     padding: 60px 40px;
-    background-color: #030a0e;
+    background-color: #011C40;
     margin: 0 60px;
 }
 
 .product-catalog h2 {
     text-align: center;
     font-size: 2rem;
-    color: #333;
+    color: #6D84B0;
     margin-bottom: 20px;
 }
 
@@ -124,7 +124,7 @@
 }
 
 .product {
-    background-color: #0a0a0a;
+    background-color:#f0f0f0;
     border: 1px solid #0d0d0d;
     border-radius: 8px;
     padding: 20px;
@@ -152,12 +152,12 @@
 
 .product strong {
     font-size: 1rem;
-    color: #eff3f7;
+    color: #242628;
 }
 
 .product button {
     background-color: #247bdf;
-    color: #ffffff;
+    color: #111010;
     border: none;
     border-radius: 4px;
     padding: 10px 20px;
